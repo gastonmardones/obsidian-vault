@@ -1,0 +1,392 @@
+{
+  "main": {
+    "id": "ece36545a5f427ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5c638d02de6bde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "796fb8dbc46255c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Estudio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudio"
+            }
+          },
+          {
+            "id": "a1a4182ba57bcc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "cc76ebc8e488d306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "a29c2aec484e6ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "cdb91d4748167439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "f78e96cc542ec8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "aef3693f4acb6dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps/MOC — DevOps General.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC — DevOps General"
+            }
+          },
+          {
+            "id": "94ee6de89cdff633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "9e44e85716643aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "96ab3e604e39a4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts/EduAnalítica infra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EduAnalítica infra"
+            }
+          },
+          {
+            "id": "6aa158c39c7ace5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "9a07bb75ed205b1d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json  (Working Tree)"
+            }
+          }
+        ],
+        "currentTab": 11
+      },
+      {
+        "id": "8f12a6ef39241130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "658dde7e08ccee6a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bd120a47037fea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "126756965d375441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7897214f4dacfc50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "71f062431ea4663c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "eaf6f17e5538ddc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "368aac83424f295b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f8b772b726d04ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0292a91fbbbd7d7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HOME.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de HOME"
+            }
+          },
+          {
+            "id": "6e0137d9df61d3c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HOME.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de HOME"
+            }
+          },
+          {
+            "id": "d6e99b31e661ad4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6ca2c8c7ff364c4e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "955d8fb705b80ca8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HOME.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de HOME"
+            }
+          },
+          {
+            "id": "d4cab39239ae5ef2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "9a07bb75ed205b1d",
+  "lastOpenFiles": [
+    "Templates/MOC.md",
+    "Templates/Apunte técnico.md",
+    "Templates/Estudio.md",
+    "Sin título.md",
+    "Efforts/EduAnalítica infra.md",
+    "Efforts/Entrevista deCampoaCampo.md",
+    "Maps/MOC — DevOps General.md",
+    "Maps/MOC — Redes.md",
+    "Maps/MOC — Kubernetes.md",
+    "Maps/MOC — Docker.md",
+    "Maps/MOC — Linux.md",
+    "HOME.md",
+    "Excalidraw/Drawing 2026-03-29 12.59.54.excalidraw.md",
+    "Excalidraw",
+    "Templates",
+    "Sources",
+    "Efforts",
+    "Maps",
+    "Cards"
+  ]
+}
