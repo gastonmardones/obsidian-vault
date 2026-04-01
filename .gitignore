@@ -1,0 +1,10 @@
+﻿# Obsidian - workspace state (cambia constantemente, no vale versionar)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph-cache.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
